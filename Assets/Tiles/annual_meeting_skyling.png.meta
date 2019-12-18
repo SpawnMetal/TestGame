@@ -1,0 +1,2567 @@
+fileFormatVersion: 2
+guid: 4fd6a1f2441f6744d9217a371816da01
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: annual_meeting_skyling_0
+    21300002: annual_meeting_skyling_1
+    21300004: annual_meeting_skyling_2
+    21300006: annual_meeting_skyling_3
+    21300008: annual_meeting_skyling_4
+    21300010: annual_meeting_skyling_5
+    21300012: annual_meeting_skyling_6
+    21300014: annual_meeting_skyling_7
+    21300016: annual_meeting_skyling_8
+    21300018: annual_meeting_skyling_9
+    21300020: annual_meeting_skyling_10
+    21300022: annual_meeting_skyling_11
+    21300024: annual_meeting_skyling_12
+    21300026: annual_meeting_skyling_13
+    21300028: annual_meeting_skyling_14
+    21300030: annual_meeting_skyling_15
+    21300032: annual_meeting_skyling_16
+    21300034: annual_meeting_skyling_17
+    21300036: annual_meeting_skyling_18
+    21300038: annual_meeting_skyling_19
+    21300040: annual_meeting_skyling_20
+    21300042: annual_meeting_skyling_21
+    21300044: annual_meeting_skyling_22
+    21300046: annual_meeting_skyling_23
+    21300048: annual_meeting_skyling_24
+    21300050: annual_meeting_skyling_25
+    21300052: annual_meeting_skyling_26
+    21300054: annual_meeting_skyling_27
+    21300056: annual_meeting_skyling_28
+    21300058: annual_meeting_skyling_29
+    21300060: annual_meeting_skyling_30
+    21300062: annual_meeting_skyling_31
+    21300064: annual_meeting_skyling_32
+    21300066: annual_meeting_skyling_33
+    21300068: annual_meeting_skyling_34
+    21300070: annual_meeting_skyling_35
+    21300072: annual_meeting_skyling_36
+    21300074: annual_meeting_skyling_37
+    21300076: annual_meeting_skyling_38
+    21300078: annual_meeting_skyling_39
+    21300080: annual_meeting_skyling_40
+    21300082: annual_meeting_skyling_41
+    21300084: annual_meeting_skyling_42
+    21300086: annual_meeting_skyling_43
+    21300088: annual_meeting_skyling_44
+    21300090: annual_meeting_skyling_45
+    21300092: annual_meeting_skyling_46
+    21300094: annual_meeting_skyling_47
+    21300096: annual_meeting_skyling_48
+    21300098: annual_meeting_skyling_49
+    21300100: annual_meeting_skyling_50
+    21300102: annual_meeting_skyling_51
+    21300104: annual_meeting_skyling_52
+    21300106: annual_meeting_skyling_53
+    21300108: annual_meeting_skyling_54
+    21300110: annual_meeting_skyling_55
+    21300112: annual_meeting_skyling_56
+    21300114: annual_meeting_skyling_57
+    21300116: annual_meeting_skyling_58
+    21300118: annual_meeting_skyling_59
+    21300120: annual_meeting_skyling_60
+    21300122: annual_meeting_skyling_61
+    21300124: annual_meeting_skyling_62
+    21300126: annual_meeting_skyling_63
+    21300128: annual_meeting_skyling_64
+    21300130: annual_meeting_skyling_65
+    21300132: annual_meeting_skyling_66
+    21300134: annual_meeting_skyling_67
+    21300136: annual_meeting_skyling_68
+    21300138: annual_meeting_skyling_69
+    21300140: annual_meeting_skyling_70
+    21300142: annual_meeting_skyling_71
+    21300144: annual_meeting_skyling_72
+    21300146: annual_meeting_skyling_73
+    21300148: annual_meeting_skyling_74
+    21300150: annual_meeting_skyling_75
+    21300152: annual_meeting_skyling_76
+    21300154: annual_meeting_skyling_77
+    21300156: annual_meeting_skyling_78
+    21300158: annual_meeting_skyling_79
+    21300160: annual_meeting_skyling_80
+    21300162: annual_meeting_skyling_81
+    21300164: annual_meeting_skyling_82
+    21300166: annual_meeting_skyling_83
+    21300168: annual_meeting_skyling_84
+    21300170: annual_meeting_skyling_85
+    21300172: annual_meeting_skyling_86
+    21300174: annual_meeting_skyling_87
+    21300176: annual_meeting_skyling_88
+    21300178: annual_meeting_skyling_89
+    21300180: annual_meeting_skyling_90
+    21300182: annual_meeting_skyling_91
+    21300184: annual_meeting_skyling_92
+    21300186: annual_meeting_skyling_93
+    21300188: annual_meeting_skyling_94
+    21300190: annual_meeting_skyling_95
+    21300192: annual_meeting_skyling_96
+    21300194: annual_meeting_skyling_97
+    21300196: annual_meeting_skyling_98
+    21300198: annual_meeting_skyling_99
+    21300200: annual_meeting_skyling_100
+    21300202: annual_meeting_skyling_101
+    21300204: annual_meeting_skyling_102
+    21300206: annual_meeting_skyling_103
+    21300208: annual_meeting_skyling_104
+    21300210: annual_meeting_skyling_105
+    21300212: annual_meeting_skyling_106
+    21300214: annual_meeting_skyling_107
+    21300216: annual_meeting_skyling_108
+    21300218: annual_meeting_skyling_109
+    21300220: annual_meeting_skyling_110
+    21300222: annual_meeting_skyling_111
+    21300224: annual_meeting_skyling_112
+    21300226: annual_meeting_skyling_113
+    21300228: annual_meeting_skyling_114
+    21300230: annual_meeting_skyling_115
+    21300232: annual_meeting_skyling_116
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: annual_meeting_skyling_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1401.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c71546f70743448a25cd1e22cdb976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_1
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1401.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aced3855c0a8504b9c8dbc5b9436100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_2
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1401.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70fffab53c12af64499e20a2eceb8e40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_3
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1401.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4ad54e09382ec4e80c3267602e6b56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_4
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1401.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1ab5115a338f947a3e0ba13dc98eaf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_5
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 1401.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6ea5bcc8c8e054b82f2c33fba2e608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_6
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 1401.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4feeebc6d9799354f85ffa2f31481c6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_7
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 1401.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d32b948a98946498c92eee1a80885e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_8
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 1401.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd16779596e45946a2235b2d0507d56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_9
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 1401.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9148538ae7d2fbf45be0306182ff7835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_10
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 1401.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: defbe4b928c0425458fd7a3032874aeb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_11
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 1401.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25953664bba1a6a439f5e39904541d87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_12
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 1401.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6072e4d3a60f4840ba3a2450a5742cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_13
+      rect:
+        serializedVersion: 2
+        x: 3055
+        y: 1401.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3730e7f2acd720b449c30320f95e721f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_14
+      rect:
+        serializedVersion: 2
+        x: 3290
+        y: 1401.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55653130eb87ad6468809eff71ab0275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_15
+      rect:
+        serializedVersion: 2
+        x: 3525
+        y: 1401.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93aed8290289f3b45b3ff30fb314d971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_16
+      rect:
+        serializedVersion: 2
+        x: 3760
+        y: 1401.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed8c444f1dc5b04eb50dedb9ecd9ecd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_17
+      rect:
+        serializedVersion: 2
+        x: 3995
+        y: 1401.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c83f689427596438f333153b6dc737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_18
+      rect:
+        serializedVersion: 2
+        x: 4230
+        y: 1401.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4402cb2b9302532479593f6c9c4ec140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_19
+      rect:
+        serializedVersion: 2
+        x: 4465
+        y: 1401.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11d8e4c371b6dd4aa6c3b4a4b451dcc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_20
+      rect:
+        serializedVersion: 2
+        x: 4700
+        y: 1401.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ece40901b6b4a3418a4ffc22a4a76a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1168.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d0450037d06704496a62a8daf3c4ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_22
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 1168.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5858a4ded96891a4f9ff7ab75eab7864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 935.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c07b7e9d646be04f96f3b0a9894680e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_24
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 935.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d942628f28bdc46beb26fd86742c94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_25
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 935.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd04ddb6a1e1fd84f813a9f989bce743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_26
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 935.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e590a38bd256d794e8af296a016df9a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_27
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 935.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a875e59bee40b445b787d1c353bd84f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_28
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 935.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ee88c495988fa43b8459b11b0e75ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_29
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 935.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08da25cd6b6d3784d88eb86a8eee781f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_30
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 935.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3e2eeb1edd27347b7340f7c02f264d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_31
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 935.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3090939e0bec6f64ab2ea1bced75a68b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_32
+      rect:
+        serializedVersion: 2
+        x: 3290
+        y: 935.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19173b68024625240a69bf3800ef1e96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_33
+      rect:
+        serializedVersion: 2
+        x: 3525
+        y: 935.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78180e1867b14844db14929bd21f7333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_34
+      rect:
+        serializedVersion: 2
+        x: 3995
+        y: 935.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85624d84a8cddef4c95977028c7972bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 702.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68e826c719370e488a51e491019a43f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_36
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 702.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c07d8c610e506244a4a0d27ca7ad132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_37
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 702.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4637a73a6b793784281c789e84258249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_38
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 702.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452ae98d698ead440840d1d5608013ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_39
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 702.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48235bf783938b2489d936022d3fa618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_40
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 702.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8517098a31ff1d48bdf61394e6011fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_41
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 702.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47498f606da496a43a26423c999d587c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_42
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 702.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c98877edc95bc54a95811e0e29f6a0c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_43
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 702.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd02ad69d685c4447ba0d4be24fc12f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_44
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 702.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69b843d9ac4dda40b2777fc809f68b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_45
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 702.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f801a419f1b9a34fb5c44ceca193db3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_46
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 702.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9ed20941a1a1d48ba84bd197ed11c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_47
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 702.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e229fae4dba614f84d83e755079098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_48
+      rect:
+        serializedVersion: 2
+        x: 3055
+        y: 702.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e992036461b0d4c9194b00e602f6a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_49
+      rect:
+        serializedVersion: 2
+        x: 3290
+        y: 702.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4838c1173648b744bbcde77c19b4c99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_50
+      rect:
+        serializedVersion: 2
+        x: 3525
+        y: 702.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c133911db9757294bb45e1151bcfe5e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_51
+      rect:
+        serializedVersion: 2
+        x: 3760
+        y: 702.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a2c6b62c61db44d9f86a3228ed5cd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_52
+      rect:
+        serializedVersion: 2
+        x: 3995
+        y: 702.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413f9d8212480374a8ba6220ddf4461b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_53
+      rect:
+        serializedVersion: 2
+        x: 4230
+        y: 702.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8b71fa19f6af44f83ae4ff0408fb2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 469.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3da1ea6ff82a324d9d5d708f25797a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_55
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 469.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce46e4b0f6f62a4f8ca19499169b55b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_56
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 469.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9fb4503f8e80b4894c631658272d3c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_57
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 469.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d13300d0f87ab41b2e59e6f151039c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_58
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 469.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f73d77f53d2f947aed186e3c8476ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_59
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 469.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f0f9856aa0b8445987906d0ee0f136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_60
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 469.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb3298712829b94a891c0b275b580e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_61
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 469.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9661c93704f3e4343b4024698bbf34b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_62
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 469.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a379046cbe298d448836534f6354a618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_63
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 469.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d506f393165e2e844bc625cf3802139f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_64
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 469.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4efed19bfad7b214db47b1fe2a9afd2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_65
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 469.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6432f0e2e4ef58f44b7f0012bd3415b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_66
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 469.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1ba5cee805ede46821ae2fc80d2b68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_67
+      rect:
+        serializedVersion: 2
+        x: 3055
+        y: 469.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2d59b51edee14498ae02601b65e656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_68
+      rect:
+        serializedVersion: 2
+        x: 3290
+        y: 469.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d42db473ae6434cac9bdd14e74d075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_69
+      rect:
+        serializedVersion: 2
+        x: 3525
+        y: 469.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e46a43cbc617b42b501d90d5a264bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_70
+      rect:
+        serializedVersion: 2
+        x: 3760
+        y: 469.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9c6bc7950c96645b26eb1ca2cf5982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_71
+      rect:
+        serializedVersion: 2
+        x: 3995
+        y: 469.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca447715afd1594c8acbeff1cf030e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_72
+      rect:
+        serializedVersion: 2
+        x: 4230
+        y: 469.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9516ddd321156246be7d468046eb410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_73
+      rect:
+        serializedVersion: 2
+        x: 4465
+        y: 469.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39672427cc8dfd346b00d48dd8852ff3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_74
+      rect:
+        serializedVersion: 2
+        x: 4700
+        y: 469.4286
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536c8ed455d63d849a75895f7b7db053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 236.42857
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46ecb471d3a8934eb26e4994f105c9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_76
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 236.42857
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43bac094b68e05546b18bafe17e9bd83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_77
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 236.42857
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6e5010890e4cf4ca0b592a50f29ce8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_78
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 236.42857
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42dc30794ceff6e44a4eac61d22fa9fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_79
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 236.42857
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200b831cc06d10040a2fcaec05301662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_80
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 236.42857
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2aeeb67b068995498c1f96c608fc499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_81
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 236.42857
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1991a021d969aad47b1c9e50d0940a19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_82
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 236.42857
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c173c7967efdec74aa52f93bf69e3a8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_83
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 236.42857
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39eb29dffeb1f841b523e970d5e5f3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_84
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 236.42857
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a1085a3598b454f808966a8ae86515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_85
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 236.42857
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27de104836c01a488c5efd19692a0a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_86
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 236.42857
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520d0b7c8786a8843a6a5d308809963b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_87
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 236.42857
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a032cbb10efd4749ab6bf91dd5bcf34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_88
+      rect:
+        serializedVersion: 2
+        x: 3055
+        y: 236.42857
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b720f019fd3885449a4124a20b74421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_89
+      rect:
+        serializedVersion: 2
+        x: 3290
+        y: 236.42857
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267afab3e0f43c840a4570e1031c4675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_90
+      rect:
+        serializedVersion: 2
+        x: 3525
+        y: 236.42857
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04add158fccd194f93f9e636c8c05ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_91
+      rect:
+        serializedVersion: 2
+        x: 3760
+        y: 236.42857
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988f9476b92427144b5a552b62090580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_92
+      rect:
+        serializedVersion: 2
+        x: 3995
+        y: 236.42857
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c472b23f7ab0d5f429518dbcab561719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_93
+      rect:
+        serializedVersion: 2
+        x: 4230
+        y: 236.42857
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005e6fade3158d64a91eb060c71f31ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_94
+      rect:
+        serializedVersion: 2
+        x: 4465
+        y: 236.42857
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b1e83218d6c1643b7c5358d8c2d312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_95
+      rect:
+        serializedVersion: 2
+        x: 4700
+        y: 236.42857
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531e00a6440ac5046b4a140efbac7cfe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3.4285736
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d59d82a29285d4caef157db815270b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_97
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 3.4285736
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867ee30aba4a71844b6be3510cb38755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_98
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 3.4285736
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9093dc0456a3ba44396f8d83e52d7dbf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_99
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 3.4285736
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7804361a5cc74524996085e29848e7c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_100
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 3.4285736
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ab48d986bb4094ca5ab03242736721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_101
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 3.4285736
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524eeaa9fa18dc741abcf98630c6ca1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_102
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 3.4285736
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a0a393390ef2d49906aec9401f1acb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_103
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 3.4285736
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c777b538d651547bacc30c48da905d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_104
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 3.4285736
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f120bf152ae1d2b4a9164e1940e19373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_105
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 3.4285736
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3359132995e174a97e584dc9fb901f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_106
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 3.4285736
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31441c7640b5364ab2f02ffbe25b9f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_107
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 3.4285736
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c5e3dddfb0c534ba90e44d0be0cfb8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_108
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 3.4285736
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0648ba2f5c5fbd46ae2bcef1cf47430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_109
+      rect:
+        serializedVersion: 2
+        x: 3055
+        y: 3.4285736
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f3ba48e771d344eb20d33d0678c4ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_110
+      rect:
+        serializedVersion: 2
+        x: 3290
+        y: 3.4285736
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1dcc9d2844e134695a2f304f02eb7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_111
+      rect:
+        serializedVersion: 2
+        x: 3525
+        y: 3.4285736
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70416e72f3215144bb81f8a1372ba874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_112
+      rect:
+        serializedVersion: 2
+        x: 3760
+        y: 3.4285736
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9f10abe81962342b6309b978e3dbc7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_113
+      rect:
+        serializedVersion: 2
+        x: 3995
+        y: 3.4285736
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d746bb57340a94fac4da2703d3de7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_114
+      rect:
+        serializedVersion: 2
+        x: 4230
+        y: 3.4285736
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e381b9a68af2d4ca661b3740113c18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_115
+      rect:
+        serializedVersion: 2
+        x: 4465
+        y: 3.4285736
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cdc32f552a31fe47acd81b6dcb2a93e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annual_meeting_skyling_116
+      rect:
+        serializedVersion: 2
+        x: 4700
+        y: 3.4285736
+        width: 235.71428
+        height: 233.57143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97fd129c58279e43bf875d5e5c17b11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ecba9ae367f990c4897c94e9f8b70720
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
